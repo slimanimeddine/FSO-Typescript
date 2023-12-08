@@ -20,5 +20,3 @@ Feel free to explore each directory to review my TypeScript implementations for 
 To verify my successful completion of Part 9 in the Full Stack Open course and view the certificate, please visit the following URL:
 
 [Full Stack Open Certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/702e2eca32cba00b1c2366d102003523)
-
-Stay tuned for detailed instructions on how to navigate and utilize the TypeScript applications within this repository. Happy coding!
